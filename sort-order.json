@@ -1,5 +1,4 @@
 [
-	// Positioning
 	"position",
 	"top",
 	"right",
@@ -21,7 +20,6 @@
 	"justify-content",
 	"order",
 	"z-index",
-	// Box-model
 	"box-sizing",
 	"display",
 	"float",
@@ -52,7 +50,6 @@
 	"clip",
 	"clip-path",
 	"clear",
-	// Typography
 	"color",
 	"content",
 	"counter-reset",
@@ -99,7 +96,6 @@
 	"list-style-image",
 	"list-style-position",
 	"list-style-type",
-	// Visual
 	"-webkit-appearance",
 	"-moz-appearance",
 	"appearance",
@@ -161,7 +157,6 @@
 	"transform",
 	"transform-origin",
 	"transform-style",
-	// Motion
 	"animation",
 	"animation-delay",
 	"animation-duration",
@@ -177,7 +172,6 @@
 	"transition-property",
 	"transition-timing-function",
 	"will-change",
-	// Misc
 	"cursor",
 	"opacity",
 	"filter",
